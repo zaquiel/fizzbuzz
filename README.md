@@ -1,3 +1,3 @@
 # FizzBuzz 
 
-Implementação do desafio FizzBuzz visando a forma mais simples.
+Implementation of the FizzBuzz challenge for the simplest form.
